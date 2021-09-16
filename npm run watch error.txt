@@ -1,0 +1,1 @@
+Uninstall: npm uninstall --save vue-loader Install: npm i vue-loader
